@@ -4,6 +4,6 @@
 	<div>
 		<h1>2aleks</h1>
 		<h3>Golang programer.</h3>
-		<h1>i'm still learning btw</h1>
+		<h4>i'm still learning btw</h4>
 	</div>
 </div>
